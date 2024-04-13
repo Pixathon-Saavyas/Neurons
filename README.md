@@ -13,6 +13,8 @@ To use these agents, follow the steps below:
 Before running the agents, you need to obtain the required API
 
 #### OpenLibrary API
-      1. Visit the OpenLibrary website:<https://openlibrary.org/developers/api>
-      2. Which is numbered
-      2. Which is numbered
+#### OpenLibrary API
+1. First item
+2. Second item
+3. Third item
+4. Fourth item
