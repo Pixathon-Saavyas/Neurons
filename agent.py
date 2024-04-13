@@ -31,7 +31,7 @@ def search_books_by_genre(genre):
             
 #Event handler for handling responses
 @book_agent_protocol.on_message(model=book_name, replies={UAgentResponse})
-async def Say_Joke(ctx: Context, sender: str, msg: book_name):
+async def say_msg(ctx: Context, sender: str, msg: book_name):
     result=search_books_by_genre(msg.genre)
     await ctx.send(sender, UAgentResponse(message=result,type=UAgentResponseType.FINAL))
     
