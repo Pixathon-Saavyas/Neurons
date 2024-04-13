@@ -27,3 +27,7 @@ To run the Project
 python agent.py
 ```
 Now you have the agents up and running to perform book recommendation integrations using the provided API. Happy integrating! 🎉
+
+## Sample Output:
+![brs](https://github.com/Pixathon-Saavyas/Neurons/assets/5381124/8dc7f50c-ec96-4895-b263-d85940341f19)
+
