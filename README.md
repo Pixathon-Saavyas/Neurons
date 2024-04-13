@@ -28,6 +28,13 @@ python agent.py
 ```
 Now you have the agents up and running to perform book recommendation integrations using the provided API. Happy integrating! 🎉
 
+### Step 4: Run the project on agent verse
+1. To run this project on agentverse, create an agent and add the `agent.py` code.
+
+2. Create a Service by specifying the Title, Description and other details.
+   ![image](https://github.com/Pixathon-Saavyas/Neurons/assets/5381124/645fcc16-a3e0-4304-925c-a2ad5f10d6c1)
+
+
 ## Sample Output on DeltaV:
 ![brs](https://github.com/Pixathon-Saavyas/Neurons/assets/5381124/8dc7f50c-ec96-4895-b263-d85940341f19)
 
