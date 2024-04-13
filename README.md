@@ -33,6 +33,8 @@ Now you have the agents up and running to perform book recommendation integratio
 
 2. Create a Service by specifying the Title, Description and other details.
    ![image](https://github.com/Pixathon-Saavyas/Neurons/assets/5381124/645fcc16-a3e0-4304-925c-a2ad5f10d6c1)
+   
+4. Run the service on DeltaV   
 
 
 ## Sample Output on DeltaV:
