@@ -13,8 +13,7 @@ To use these agents, follow the steps below:
 Before running the agents, you need to obtain the required API
 
 #### OpenLibrary API
-1.Visit the OpenLibrary website: [https://openlibrary.org/developers/api](https://openlibrary.org/developers/api "OpenLibrary Website")
-
-2.You dont have to create any account it is directly accessible
-3. Third item
-4. Fourth item
+1. Visit the OpenLibrary website: [https://openlibrary.org/developers/api](https://openlibrary.org/developers/api "OpenLibrary Website")
+2. You dont have to create any account it is directly accessible
+3. Once you visit the website you will a `BOOK SEARCH` on the main page
+4. Click on it and you will get your API endpoint there
