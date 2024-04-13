@@ -17,3 +17,6 @@ Before running the agents, you need to obtain the required API
 2. You dont have to create any account it is directly accessible
 3. Once you visit the website you will a `BOOK SEARCH` on the main page
 4. Click on it and you will get your API endpoint there
+
+### Step 2: 
+Paste the API on the `base_url` of `agent.py`
