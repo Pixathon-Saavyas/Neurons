@@ -20,3 +20,9 @@ Before running the agents, you need to obtain the required API
 
 ### Step 2: 
 Paste the API on the `base_url` of `agent.py`
+
+### Step 3: Run Project
+To run the Project
+```
+python agent.py
+```
