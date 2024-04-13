@@ -13,7 +13,7 @@ To use these agents, follow the steps below:
 Before running the agents, you need to obtain the required API
 
 #### OpenLibrary API
-1.Visit the OpenLibrary website:[]([https://openai.com](https://openlibrary.org/developers/api))
+1.Visit the OpenLibrary website:[https://openlibrary.org/developers/api]([https://openai.com](https://openlibrary.org/developers/api))
 
 2. Second item
 3. Third item
