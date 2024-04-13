@@ -14,7 +14,6 @@ Before running the agents, you need to obtain the required API
 
 #### OpenLibrary API
 1.Visit the OpenLibrary website: [https://openlibrary.org/developers/api](https://openlibrary.org/developers/api "OpenLibrary Website")
-
-2. Second item
+2.You dont have to create any account it is directly accessible
 3. Third item
 4. Fourth item
