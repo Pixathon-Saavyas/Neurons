@@ -26,7 +26,7 @@ To run the Project
 ```
 python agent.py
 ```
-Now you have the agents up and running to perform book recommendation integrations using the provided API. Happy integrating! 🎉
+This can be used for running the agent to perform book recommendation task using the provided API on the local system.
 
 ### Step 4: Run the project on agent verse
 1. To run this project on agentverse, create an agent and add the `agent.py` code.
